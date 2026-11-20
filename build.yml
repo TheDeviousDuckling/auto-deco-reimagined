@@ -1,1 +1,4 @@
-.github/workflows/build.yml
+name: Build Windows
+on:
+  push:
+  workflow_dispatch
