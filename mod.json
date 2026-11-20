@@ -1,0 +1,24 @@
+{
+	"geode": "4.0.0",
+	"gd": {
+		"win": "2.2074",
+		"android": "2.2074",
+		"mac": "2.2074",
+		"ios": "2.2074"
+	},
+	"id": "yourname.auto-decorator",
+	"name": "Auto Decorator",
+	"version": "v1.0.0",
+	"developer": "yourname",
+	"description": "One-click themed auto decoration for the level editor.",
+	"tags": ["editor", "utility"],
+	"settings": {
+		"density": {
+			"type": "float",
+			"name": "Density",
+			"default": 1.0,
+			"min": 0.2,
+			"max": 4.0
+		}
+	}
+}
